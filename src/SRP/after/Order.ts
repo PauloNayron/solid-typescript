@@ -2,6 +2,6 @@ export class Order {
     calculateTotalSum(){/*...*/}
     getItems(){/*...*/}
     getItemCount(){/*...*/}
-    addItem($item){/*...*/}
-    deleteItem($item){/*...*/}
+    addItem(item){/*...*/}
+    deleteItem(item){/*...*/}
 }
